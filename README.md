@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=BD7100&center=true&vCenter=true&width=620&lines=R%2470k%2B+earned+with+game+cheats;Founder+of+CentralPi;R%24140k%2B+in+online+profit;Python+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+HTML;Design+%2B+Business)](https://centralpi.com.br)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=BD7100&center=true&vCenter=true&width=620&lines=R%2470k%2B+earned+with+game+cheats;Founder+of+CentralPi;R%24190k%2B+in+online+profit;Python+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+HTML;Design+%2B+Business)](https://centralpi.com.br)
 
 </div>
 
-I'm 19, from Brazil. Passionate about design and business, I've been building on the internet and running online software stores since I was 14, with **over R$140k (BRL) in online profit** so far. I also build game cheats.
+I'm 19, from Brazil. Passionate about design and business, I've been building on the internet and running online software stores since I was 14, with **over R$190k (BRL) in online profit** so far. I also build game cheats.
 
 Today I'm the founder of **[CentralPi](https://centralpi.com.br)**: management systems for physical and online stores.
 
