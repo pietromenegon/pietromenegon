@@ -4,7 +4,7 @@
 
 </div>
 
-I'm 19, from Maringá, Brazil. Passionate about design and business, I've been building on the internet and running online software stores since I was 14, with **over R$140k (BRL) in online revenue** so far. I also build game cheats.
+I'm 19, from Brazil. Passionate about design and business, I've been building on the internet and running online software stores since I was 14, with **over R$140k (BRL) in online revenue** so far. I also build game cheats.
 
 Today I'm the founder of **[CentralPi](https://centralpi.com.br)**: management systems for physical and online stores.
 
