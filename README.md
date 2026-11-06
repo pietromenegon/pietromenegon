@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=BD7100&center=true&vCenter=true&width=620&lines=Founder+of+CentralPi;R%24140k%2B+in+online+profit;Python+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+HTML;Design+%2B+Business)](https://centralpi.com.br)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=BD7100&center=true&vCenter=true&width=620&lines=R%2470k%2B+earned+with+game+cheats;Founder+of+CentralPi;R%24140k%2B+in+online+profit;Python+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+HTML;Design+%2B+Business)](https://centralpi.com.br)
 
 </div>
 
